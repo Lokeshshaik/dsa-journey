@@ -26,8 +26,10 @@ This repository provides three Java solutions for finding the **intersection** o
 
 - 📄 [intersectionOptimal.java](intersectionOptimal.java)  
 
----
+## 🚀 Explanation
+
 - 📝 [intersectionExplanation.md](intersectionExplanation.md)
+  
 ---
 
 

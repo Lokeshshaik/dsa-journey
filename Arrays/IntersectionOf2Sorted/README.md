@@ -26,18 +26,9 @@ This repository provides three Java solutions for finding the **intersection** o
 
 - 📄 [intersectionOptimal.java](intersectionOptimal.java)  
 
-
+---
 - 📝 [intersectionExplanation.md](intersectionExplanation.md)
 ---
 
-## 💡 Problem Statement
 
-> Given two sorted arrays, return a list containing all the elements present in both arrays. The result must not contain duplicates and should be in sorted order.
 
----
-
-## ✨ Sample Input
-
-```java
-int[] a = {1, 2, 2, 3, 4};
-int[] b = {2, 2, 4, 6};

@@ -2,9 +2,11 @@
 
 This repository contains three different approaches to solving the "Intersection of Two Sorted Arrays" problem using Java.
 
+
 🚀 Problem Statement
 
 Given two sorted arrays a[] and b[], return a list of elements that appear in both arrays. The result should not contain duplicates.
+
 
 📂 Brute Force Approach: Using Visited Array
 
@@ -28,7 +30,7 @@ Space Complexity:
 
 O(n2) for the visited array.
 
-📄 intersectionBruteVis.java
+
 
 ⚡ Better Approach: Using HashSet
 
@@ -54,7 +56,7 @@ Space Complexity:
 
 O(n1 + n2)
 
-📄 intersectionBetterHashSet.java
+
 
 💡 Optimal Approach: Two Pointers
 
@@ -78,4 +80,4 @@ Space Complexity:
 
 O(1) (excluding result list)
 
-📄 intersectionOptimal.java
+

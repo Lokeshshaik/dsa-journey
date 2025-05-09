@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class LargestElement {
 
-    // Optimal Solution: O(n)
+    // Optimal Solution: Time : O(n) , Space : O(1)
     public static int findLargestBruteForce(int[] arr) {
         int max = arr[0];  // Assume first element is the largest
         for (int i = 1; i < arr.length; i++) {
@@ -14,7 +14,7 @@ public class LargestElement {
         return max;
     }
 
-    // Brute force Solution using Sorting: O(n log n)
+    // Brute force Solution using Sorting: Time : O(n log n) , Space : O(1)
     public static int findLargestOptimal(int[] arr) {
         Arrays.sort(arr);          // Sort array in ascending order
         return arr[arr.length - 1]; // The largest element is now the last one

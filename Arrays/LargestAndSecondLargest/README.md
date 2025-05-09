@@ -1,4 +1,4 @@
-# Largest and Second Largest Algorithms
+# Largest and Second Largest Elements in an Array
 
 This directory contains three different approaches for finding the largest and second largest elements in an array. 
 

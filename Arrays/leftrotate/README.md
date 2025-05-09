@@ -1,10 +1,6 @@
 # Left Rotate Array Solutions
 
-This project contains both **Brute Force** and **Optimal** solutions for rotating an array to the left.
-
-## Contents:
-- [Brute Force Solution](#brute-force-solution)
-- [Optimal Solution](#optimal-solution)
+This contains both **Brute Force** and **Optimal** solutions for rotating an array to the left.
 
 ## Brute Force Solution
 In this solution, we use an additional array to store the rotated values.

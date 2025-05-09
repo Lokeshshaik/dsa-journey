@@ -20,7 +20,7 @@ Each folder will contain:
 | Graphs            | ❌ Not Started |
 
 
-💡 About Me
+💡 About Me : 
 I'm **Lokesh Manikanta**, learning DSA step by step and sharing my progress.  
 Feel free to explore, fork, or contribute!
 

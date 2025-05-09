@@ -33,7 +33,6 @@ Each folder will contain:
 
 
 💡 About Me
-
 I'm **Lokesh Manikanta**, learning DSA step by step and sharing my progress.  
 Feel free to explore, fork, or contribute!
 

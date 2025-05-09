@@ -14,8 +14,8 @@ Each folder will contain:
 📅 Progress Tracker
 | Topic             | Status         |
 |-------------------|--------------  |
-| Arrays            | ✅ Completed   |
-| Strings           | ⏳ In Progress |
+| Arrays            | ⏳ In Progress |
+| Strings           | ❌ Not Started |
 | Trees             | ❌ Not Started |
 | Graphs            | ❌ Not Started |
 

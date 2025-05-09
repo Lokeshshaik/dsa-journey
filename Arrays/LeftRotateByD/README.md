@@ -7,7 +7,7 @@ This contains both **Brute Force** and **Optimal** solutions for rotating an arr
 
 In this solution, we use an additional temporary array to store the first `d` elements, then shift the rest and finally put the temp values at the end.
 
-- [Brute Force Code](./bruteForce.md)
+- [Brute Force Code](./bruteForce.java)
 - [Brute Force Explanation](./bruteForceExplanation.md)
 
 ---
@@ -16,5 +16,5 @@ In this solution, we use an additional temporary array to store the first `d` el
 
 This optimal approach rotates the array in-place using the reversal algorithm, without using extra space.
 
-- [Optimal Code](./optimalApproach.md)
+- [Optimal Code](./optimalApproach.java)
 - [Optimal Explanation](./optimalApproachExplanation.md)

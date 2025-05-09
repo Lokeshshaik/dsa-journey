@@ -1,4 +1,4 @@
-🧠 Intersection of Two Sorted Arrays - Java Solutions
+🧠 Intersection of Two Sorted Arrays
 
 This repository contains three different approaches to solving the "Intersection of Two Sorted Arrays" problem using Java.
 
